@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Taabish Ahmed Ansari
 
-<!--
-**taabish-ansari/taabish-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year B.Tech (AI & Data Science)
+Hyderabad, India
+Interested in AI Systems, Data Science & Cloud Engineering
 
-Here are some ideas to get you started:
+Resume
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[View My Resume](./Taabish_Ahmed_Ansari_Resume.pdf)
+
+Projects
+
+Agentic AI Orthopedic Decision System
+
+* Multi-agent AI system (Triage, Diagnosis, Safety)
+* Evaluated using accuracy, hallucination risk & reasoning
+* Built Streamlit dashboard for analysis
+
+Credit Card Fraud Detection
+
+* Random Forest model using scikit-learn
+* Handled class imbalance & evaluated using F1-score
+
+AI Text & Image Generator
+
+* Integrated GPT & Gemini models
+* Secure API handling with Streamlit
+
+
+Skills
+
+Languages: Python, Java, C
+Data & ML: Pandas, NumPy, Scikit-learn
+Web: HTML, CSS, JavaScript
+Cloud: AWS (EC2, S3, VPC, IIS Hosting)
+Tools: Power BI, VS Code, Jupyter
+
+
+Contact
+
+📧 [taabishahmedansari22@ifheindia.org](mailto:taabishahmedansari22@ifheindia.org)
+🔗 https://github.com/taabish-ansari
+🔗 https://www.linkedin.com/in/taabish790/
