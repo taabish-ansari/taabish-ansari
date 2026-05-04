@@ -6,7 +6,7 @@ Interested in AI Systems, Data Science & Cloud Engineering
 
 Resume
 
-[View My Resume](./Taabish_Ahmed_Ansari_Resume.pdf)
+[View My Resume](./Taabish_Ahmed_Ansari_Resume.pdf.pdf)
 
 Projects
 
