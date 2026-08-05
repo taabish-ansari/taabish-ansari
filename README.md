@@ -1,56 +1,116 @@
-Hi, I am Taabish Ahmed Ansari
+Hi, I'm Taabish Ahmed Ansari 👋
 
-🎓 Final Year B.Tech (AI & Data Science)
+🎓 AI & Data Science Graduate  
 📍 Hyderabad, India
-
 
 About Me
 
-I am passionate about building data-driven solutions using Machine Learning, AI systems, and Cloud technologies. I enjoy solving real-world problems through intelligent systems and scalable applications.
+I'm an AI & Data Science graduate passionate about building intelligent, data-driven applications that solve real-world problems. My interests include Machine Learning, Large Language Models (LLMs), Full-Stack Development, Cloud Computing, and Data Analytics.
 
+I enjoy developing end-to-end solutions—from designing machine learning pipelines and AI-powered systems to building scalable web applications with secure architectures and modern cloud technologies.
 
-Skills
+Technical Skills
 
-* Languages: Python, Java, C
-* Data & ML: Pandas, NumPy, Scikit-learn
-* Web: HTML, CSS, JavaScript
-* Cloud: AWS (EC2, S3, VPC)
-* Tools: Power BI, VS Code, Jupyter
+Programming Languages
+- Python
+- Java
+- C
+- SQL
+- JavaScript
 
+AI, Machine Learning & Data
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- NLTK
+- spaCy
+- Hugging Face
+- Streamlit
+- Power BI
 
-📄 Resume
+Full Stack & Cloud
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+- Docker Compose
+- AWS EC2
+- Amazon S3
+- AWS VPC
 
-[View My Resume](./Taabish_Ahmed_Ansari_Resume.pdf.pdf)
-
+Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 Featured Projects
 
-Agentic AI Clinical Decision System
+🏥 Orthopedic Clinical Decision Support System
 
-* Multi-agent architecture (Triage, Diagnosis, Safety)
-* Evaluated using accuracy, hallucination risk, reasoning
-* Built Streamlit dashboard
+An end-to-end AI-powered clinical decision support platform for evaluating the quality and safety of LLM-generated orthopedic recommendations.
 
-Credit Card Fraud Detection
+Highlights
+- Multi-agent AI architecture
+- BioGPT & Hugging Face integration
+- Quality-Aware Evaluation Framework (QAEF)
+- 2,182 real orthopedic patient records
+- Interactive Streamlit dashboard
 
-* Random Forest model with scikit-learn
-* Evaluated using precision, recall, F1-score
+🏢 Visitor Management System
 
-AI Text & Image Generator
+A production-style full-stack web application that digitizes visitor registration, approval, and tracking.
 
-* Integrated GPT & Gemini APIs
-* Secure API handling
+Highlights
+- React + Node.js + Express + MongoDB
+- JWT Authentication
+- Role-Based Access Control
+- Docker Compose
+- MongoDB Atlas
+- Vercel Deployment
 
+💳 Credit Card Fraud Detection System
 
-📜 Certifications & Achievements
+Desktop machine learning application for detecting fraudulent credit card transactions using Random Forest.
 
-* AWS Cloud Practitioner Essentials
-* Deloitte Data Analytics Simulation (Forage)
-* NASSCOM Data Analytics Certifications (Gold Category)
-* Hackathons: CBIT Hacktoberfest, Lords Hack Prix
+Highlights
+- Random Forest Classifier
+- End-to-end ML Pipeline
+- Tkinter GUI
+- Data Visualization using Matplotlib
 
+🤖 Multi-LLM Prompt Application
 
-📫 Connect with Me
+Streamlit application integrating multiple Large Language Models through a unified interface.
 
-* 📧 [taabishahmedansari22@ifheindia.org]
-* 🔗 https://www.linkedin.com/in/taabish790/
+Highlights
+- OpenAI GPT-4o
+- Google Gemini
+- Modular API Architecture
+- Secure API Management
+- Streamlit Interface
+
+Certifications & Achievements
+
+- AWS Cloud Practitioner Essentials
+- Deloitte Data Analytics Job Simulation (Forage)
+- AWS GenAI Ideathon 2024
+- MathWorks – Signal Segmentation with Deep Learning
+- NASSCOM Gold Certifications
+- Acquiring Data
+- Exploratory Data Analysis
+- Data Processing & Visualization
+- CBIT Hacktoberfest 2024
+- Lords Hack Prix 2025
+
+Let's Connect
+
+📧 Email: taabishahmedansari22@ifheindia.org
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/taabish790/
+
+💻 GitHub:
+https://github.com/taabish-ansari
