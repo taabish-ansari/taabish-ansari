@@ -53,7 +53,6 @@ I'm always excited to work on:
 
 - 🔥 AI, ML & Data Science projects
 - 🌐 Full-stack web development builds
-- 🏥 Healthcare-tech and clinical AI systems
 - 🚀 Real-world, data-driven problem solving
 
 **Need help with?** ML model building & evaluation, LLM integration, full-stack app development, or data analysis
