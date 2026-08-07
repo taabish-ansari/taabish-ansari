@@ -4,10 +4,6 @@
 
 ### AI & Data Science Graduate | Machine Learning | Full-Stack Development | Cloud Computing
 
-<p>
-<a href="https://github.com/taabish-ansari">
-<img src="https://img.shields.io/github/followers/taabish-ansari?label=Followers&style=for-the-badge">
-</a>
 
 <a href="https://www.linkedin.com/in/taabish790/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
