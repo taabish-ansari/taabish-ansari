@@ -137,20 +137,6 @@ A unified Streamlit application integrating multiple Large Language Models.
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=taabish-ansari&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=taabish-ansari&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taabish-ansari&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 📧 **Email**
