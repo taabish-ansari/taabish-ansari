@@ -8,13 +8,6 @@
 
 ---
 
-## 🎯 What I'm Up To
-
-| 🔭 Currently Working On<br>AI-powered clinical decision systems • ML solutions • Full-stack web apps • LLM-integrated tools | 🌱 Currently Learning<br>Generative AI & Prompt Engineering • Cloud Computing (AWS) • Big Data Systems • System Design |
-|---|---|
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
