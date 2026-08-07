@@ -1,24 +1,58 @@
-Hi, I'm Taabish Ahmed Ansari 👋
+<div align="center">
 
-🎓 AI & Data Science Graduate  
-📍 Hyderabad, India
+# Hi there, I'm Taabish Ahmed Ansari 👋
 
-About Me
+### AI & Data Science Graduate | Machine Learning | Full-Stack Development | Cloud Computing
 
-I'm an AI & Data Science graduate passionate about building intelligent, data-driven applications that solve real-world problems. My interests include Machine Learning, Large Language Models (LLMs), Full-Stack Development, Cloud Computing, and Data Analytics.
+<p>
+<a href="https://github.com/taabish-ansari">
+<img src="https://img.shields.io/github/followers/taabish-ansari?label=Followers&style=for-the-badge">
+</a>
 
-I enjoy developing end-to-end solutions—from designing machine learning pipelines and AI-powered systems to building scalable web applications with secure architectures and modern cloud technologies.
+<a href="https://www.linkedin.com/in/taabish790/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Technical Skills
+<a href="mailto:taabishahmedansari22@ifheindia.org">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-Programming Languages
-- Python
-- Java
-- C
-- SQL
-- JavaScript
+</p>
 
-AI, Machine Learning & Data
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm an **AI & Data Science graduate** from Hyderabad, India, passionate about building intelligent software that solves real-world problems.
+
+My interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- 🌐 Full-Stack Development
+- ☁️ Cloud Computing
+- 📊 Data Analytics
+
+I enjoy designing complete solutions—from training machine learning models and developing AI-powered applications to building scalable web systems with modern cloud technologies.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
 - Scikit-learn
 - Pandas
 - NumPy
@@ -29,88 +63,118 @@ AI, Machine Learning & Data
 - Streamlit
 - Power BI
 
-Full Stack & Cloud
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Docker
-- Docker Compose
-- AWS EC2
-- Amazon S3
-- AWS VPC
+### Full Stack Development
 
-Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker"/>
+</p>
 
-Featured Projects
+### Cloud & DevOps
 
-🏥 Orthopedic Clinical Decision Support System
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+</p>
 
-An end-to-end AI-powered clinical decision support platform for evaluating the quality and safety of LLM-generated orthopedic recommendations.
+---
 
-Highlights
-- Multi-agent AI architecture
-- BioGPT & Hugging Face integration
+# ⭐ Featured Projects
+
+## 🏥 Orthopedic Clinical Decision Support System
+
+AI-powered clinical decision support platform for evaluating the quality and safety of LLM-generated orthopedic recommendations.
+
+**Highlights**
+
+- Multi-Agent AI Architecture
 - Quality-Aware Evaluation Framework (QAEF)
-- 2,182 real orthopedic patient records
-- Interactive Streamlit dashboard
+- BioGPT & Hugging Face Integration
+- Streamlit Dashboard
+- Evaluated using 2,182 Orthopedic Patient Records
 
-🏢 Visitor Management System
+---
 
-A production-style full-stack web application that digitizes visitor registration, approval, and tracking.
+## 🏢 Visitor Management System
 
-Highlights
-- React + Node.js + Express + MongoDB
-- JWT Authentication
-- Role-Based Access Control
-- Docker Compose
-- MongoDB Atlas
-- Vercel Deployment
+Production-style full-stack web application for visitor registration, approval and monitoring.
 
-💳 Credit Card Fraud Detection System
+**Tech Stack**
 
-Desktop machine learning application for detecting fraudulent credit card transactions using Random Forest.
+React • Node.js • Express • MongoDB • Docker • JWT Authentication
 
-Highlights
+---
+
+## 💳 Credit Card Fraud Detection
+
+Machine Learning desktop application for detecting fraudulent credit card transactions using Random Forest.
+
+**Highlights**
+
 - Random Forest Classifier
-- End-to-end ML Pipeline
 - Tkinter GUI
-- Data Visualization using Matplotlib
+- End-to-End ML Pipeline
+- Data Visualization
 
-🤖 Multi-LLM Prompt Application
+---
 
-Streamlit application integrating multiple Large Language Models through a unified interface.
+## 🤖 Multi-LLM Prompt Application
 
-Highlights
-- OpenAI GPT-4o
+A unified Streamlit application integrating multiple Large Language Models.
+
+**Highlights**
+
+- OpenAI GPT
 - Google Gemini
-- Modular API Architecture
-- Secure API Management
-- Streamlit Interface
+- Streamlit
+- Secure API Architecture
 
-Certifications & Achievements
+---
+
+# 🏆 Certifications
 
 - AWS Cloud Practitioner Essentials
 - Deloitte Data Analytics Job Simulation (Forage)
 - AWS GenAI Ideathon 2024
 - MathWorks – Signal Segmentation with Deep Learning
 - NASSCOM Gold Certifications
-- Acquiring Data
-- Exploratory Data Analysis
-- Data Processing & Visualization
 - CBIT Hacktoberfest 2024
 - Lords Hack Prix 2025
 
-Let's Connect
+---
 
-📧 Email: taabishahmedansari22@ifheindia.org
+# 📈 GitHub Stats
 
-🔗 LinkedIn:
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=taabish-ansari&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=taabish-ansari&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taabish-ansari&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+taabishahmedansari22@ifheindia.org
+
+🔗 **LinkedIn**
+
 https://www.linkedin.com/in/taabish790/
 
-💻 GitHub:
+💻 **GitHub**
+
 https://github.com/taabish-ansari
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+*"Building intelligent systems that solve real-world problems."*
+
+</div>
