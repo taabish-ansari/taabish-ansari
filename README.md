@@ -1,53 +1,46 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Taabish Ahmed Ansari</h1>
 
-# Hi there, I'm Taabish Ahmed Ansari 👋
+<h3 align="center">
+AI & Data Science Graduate • Machine Learning • Full Stack Development • Cloud Computing
+</h3>
 
-### AI & Data Science Graduate | Machine Learning | Full-Stack Development | Cloud Computing
-
-
-<a href="https://www.linkedin.com/in/taabish790/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:taabishahmedansari22@ifheindia.org">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<p align="center">
+Passionate about building intelligent software, data-driven applications, and AI solutions that solve real-world problems.
 </p>
 
-</div>
+<p align="center">
+<a href="https://github.com/taabish-ansari">
+<img src="https://img.shields.io/github/followers/taabish-ansari?style=flat-square&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/taabish790/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:taabishahmedansari22@ifheindia.org">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an **AI & Data Science graduate** from Hyderabad, India, passionate about building intelligent software that solves real-world problems.
-
-My interests include:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Large Language Models (LLMs)
-- 🌐 Full-Stack Development
-- ☁️ Cloud Computing
-- 📊 Data Analytics
-
-I enjoy designing complete solutions—from training machine learning models and developing AI-powered applications to building scalable web systems with modern cloud technologies.
+- 🎓 AI & Data Science Graduate
+- 📍 Hyderabad, India
+- 🌱 Currently exploring **Large Language Models (LLMs), Cloud Computing, and Full Stack Development**
+- 💡 Interested in **Machine Learning, Artificial Intelligence, Data Analytics, and Scalable Software Systems**
+- 🎯 Looking for opportunities in **Software Engineering, AI/ML, and Data Science**
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql" />
 </p>
 
 ### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</p>
 
 - Scikit-learn
 - Pandas
@@ -59,73 +52,63 @@ I enjoy designing complete solutions—from training machine learning models and
 - Streamlit
 - Power BI
 
-### Full Stack Development
+### Full Stack & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,aws" />
 </p>
 
-### Cloud & DevOps
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Featured Projects
 
-## 🏥 Orthopedic Clinical Decision Support System
+### 🏥 Orthopedic Clinical Decision Support System
 
 AI-powered clinical decision support platform for evaluating the quality and safety of LLM-generated orthopedic recommendations.
 
-**Highlights**
+**Tech Stack**
 
-- Multi-Agent AI Architecture
-- Quality-Aware Evaluation Framework (QAEF)
-- BioGPT & Hugging Face Integration
-- Streamlit Dashboard
-- Evaluated using 2,182 Orthopedic Patient Records
+Python • Streamlit • Hugging Face • BioGPT • Multi-Agent AI
 
 ---
 
-## 🏢 Visitor Management System
+### 🏢 Visitor Management System
 
-Production-style full-stack web application for visitor registration, approval and monitoring.
+Production-style full-stack web application for visitor registration, approval, and visitor tracking.
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • Docker • JWT Authentication
+React • Node.js • Express.js • MongoDB • Docker • JWT Authentication
 
 ---
 
-## 💳 Credit Card Fraud Detection
+### 💳 Credit Card Fraud Detection
 
-Machine Learning desktop application for detecting fraudulent credit card transactions using Random Forest.
+Desktop machine learning application for detecting fraudulent credit card transactions using the Random Forest algorithm.
 
-**Highlights**
+**Tech Stack**
 
-- Random Forest Classifier
-- Tkinter GUI
-- End-to-End ML Pipeline
-- Data Visualization
+Python • Scikit-learn • Tkinter • Matplotlib
 
 ---
 
-## 🤖 Multi-LLM Prompt Application
+### 🤖 Multi-LLM Prompt Application
 
-A unified Streamlit application integrating multiple Large Language Models.
+Unified interface for interacting with multiple Large Language Models.
 
-**Highlights**
+**Tech Stack**
 
-- OpenAI GPT
-- Google Gemini
-- Streamlit
-- Secure API Architecture
+Streamlit • OpenAI • Google Gemini
 
 ---
 
-# 🏆 Certifications
+## 📜 Certifications
 
 - AWS Cloud Practitioner Essentials
 - Deloitte Data Analytics Job Simulation (Forage)
@@ -137,26 +120,14 @@ A unified Streamlit application integrating multiple Large Language Models.
 
 ---
 
-# 📫 Let's Connect
+## 📫 Connect with Me
 
-📧 **Email**
-
-taabishahmedansari22@ifheindia.org
-
-🔗 **LinkedIn**
-
-https://www.linkedin.com/in/taabish790/
-
-💻 **GitHub**
-
-https://github.com/taabish-ansari
+- 📧 **Email:** taabishahmedansari22@ifheindia.org
+- 💼 **LinkedIn:** www.linkedin.com/in/taabish790
+- 💻 **GitHub:** github.com/taabish-ansari
 
 ---
 
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
-
-*"Building intelligent systems that solve real-world problems."*
-
-</div>
+<p align="center">
+<i>"Building intelligent systems that solve real-world problems."</i>
+</p>
