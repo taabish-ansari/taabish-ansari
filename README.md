@@ -39,14 +39,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taabish-ansari&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=taabish-ansari&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabish-ansari&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
 ## 🤝 Let's Collaborate!
 
 I'm always excited to work on:
